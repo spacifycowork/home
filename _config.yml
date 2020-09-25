@@ -1,0 +1,44 @@
+url: https://titan8196.github.io
+baseurl: /spacifycowork/
+
+# Site settings
+title: Spacify CoWork
+email: gupta.himanshu8196@gmail.com
+description: "A collaborative workspace solution for your office needs with ready to work infrastructure setup"
+
+
+# Team names, titles and social links
+people:
+- name: Himanshu Gupta
+  pic: 1
+  position: Co-Founder
+  social:
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Rohan Gupta
+  pic: 2
+  position: Co-Founder
+  social:
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url:
+  - title: instagram 
+    url: http://bitbucket.org/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3rd Floor, Matru Chhaya Niwas
+  - line: Bazar Peth, Gandhi Chowk, Kalyan(W.)-421301
+
+# Build settings
+markdown: kramdown
+permalink: pretty
