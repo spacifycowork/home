@@ -29,9 +29,9 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url:
+    url: https://www.facebook.com/104334658131934?referrer=whatsapp
   - title: instagram 
-    url: http://bitbucket.org/jekyll
+    url: https://www.instagram.com/invites/contact/?i=18n9dgqq0k7t1&utm_content=k7lcocv
 
 # Postal address (add as many lines as necessary)
 address:
